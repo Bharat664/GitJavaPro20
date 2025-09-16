@@ -46,6 +46,7 @@ public class PracticeSet {
 		//TreeSet in tree do not null value 
 		
 		Set <Integer> s = new TreeSet<>();
+		
 		   
 	     s.add(100);
 	     s.add(700);
@@ -63,6 +64,8 @@ public class PracticeSet {
 	     s.add(300);
 	     s.add(500);
 	     s.add(1000);
+	     s.add(8000);
+	     s.add(20000);
 	     System.out.println(s);
 	   
 	     
